@@ -1,0 +1,16 @@
+body {
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/116/638/original/background.jpg?1708895116");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-family: "DM Sans", sans-serif;
+}
+
+.weather-app {
+  background: rgb(31, 36, 61, 0.9);
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
