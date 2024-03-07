@@ -137,6 +137,7 @@ footer {
 }
 
 footer a {
-  color: rgb(181, 115, 158);
+  margin-top: 50px;
+  color: #7e79a9;
   text-decoration: none;
 }
